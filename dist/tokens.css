@@ -1,0 +1,20 @@
+/* Generated from DESIGN.md by scripts/tokens.py. */
+:root {
+  --color-ink: #233e50;
+  --color-muted: #536b78;
+  --color-paper: #ffffff;
+  --color-background: #f4f7f8;
+  --color-accent: #f8cb56;
+  --color-mint: #e2f1eb;
+  --color-border: #d9e2e6;
+  --color-danger: #a02c3b;
+  --color-success: #24664e;
+  --color-hover: #eaf0f2;
+  --color-scrollbar: #8399a5;
+  --radius-control: 12px;
+  --radius-panel: 22px;
+  --space-unit: 4px;
+  --space-page-max: 1160px;
+  --font-display: Trebuchet MS, system-ui, sans-serif;
+  --font-body: system-ui, -apple-system, Segoe UI, sans-serif;
+}
